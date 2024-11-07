@@ -3,6 +3,9 @@
 
 I will be building a game, piece by piece, called "Fantasy Quest", which is a text-based adventure game.
 
+The "Fantasy Quest Game" is currently in its early development stages, and I would like you guys to be aware that I am drawing inspiration
+from the educational platform [Boot.dev](https://www.boot.dev/). Beginners (like myself) can check it out. 
+
 ## Game Principle
 
 The game follows the premise of a combat system where players(or warriors) have to fight to live.
